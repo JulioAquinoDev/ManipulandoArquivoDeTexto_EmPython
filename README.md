@@ -12,15 +12,11 @@
 
 ### Screens:
 
-![](IMG\inicio.jpg)
+<img src="IMG\inicio.jpg" />
 
+<img src="IMG\cadastro.jpg" />
 
-
-![](IMG\cadastro.jpg)
-
-
-
-![](IMG\listar.jpg)
+<img src="IMG\listar.jpg" />
 
 
 
